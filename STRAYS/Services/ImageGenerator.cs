@@ -7,7 +7,7 @@ namespace STRAYS.Services
 {
     public class ImageGenerator
     {
-        string key = "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";
+        string key = "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";
 
         public void setKey(string key)
         {
